@@ -1,0 +1,26 @@
+{
+  "predicted_labels": [
+    "POSITIVE",
+    "POSITIVE",
+    "POSITIVE",
+    "NEGATIVE",
+    "POSITIVE"
+  ],
+  "predictions": [
+    1,
+    1,
+    1,
+    0,
+    1
+  ],
+  "accuracy_result": 0.8,
+  "f1_result": 0.8571428571428571,
+  "translated_review": "Estoy muy satisfecho con mi Nissan NV SL 2014. Uso esta camioneta para mis entregas de negocios y uso personal.",
+  "bleu_score": 68.88074582865497,
+  "question": "What did he like about the brand?",
+  "context": "The car is fine. It's a bit loud and not very powerful. On one hand, compared to its peers, the interior is well-built. The transmission failed a few years ago, and the dealer replaced it under warranty with no issues. Now, about 60k miles later, the transmission is failing again. It sounds like a truck, and the issues are well-documented. The dealer tells me it is normal, refusing to do anything to resolve the issue. After owning the car for 4 years, there are many other vehicles I would purchase over this one. Initially, I really liked what the brand is about: ride quality, reliability, etc. But I will not purchase another one. Despite these concerns, I must say, the level of comfort in the car has always been satisfactory, but not worth the rest of issues found.",
+  "answer": "ride quality, reliability",
+  "summarized_text": " Nissan Rogue provides the desired SUV experience without burdening me with an exorbitant payment . Handling and styling are great; I have hauled 12 bags of mulch in the back with the seats down and could have held more . The engine delivers strong performance, and the ride is really smooth",
+  "text_column_used": "Review",
+  "label_column_used": "Class"
+}
